@@ -98,7 +98,7 @@ header nav a {
 
 
 header nav a:hover {
-    color: cadetblue;
+    color: #689ca0;
     /*en anden farve når musen går henover*/
 }
 
@@ -126,4 +126,28 @@ footer {
 
 #burndown_chart img {
     width: 65vw;
+}
+
+/*-------- SCRUMVIDEO --------*/
+
+#scrumvideoer .column_first {
+    flex-grow: 1;
+    flex-basis: 100vw;
+}
+
+.videowrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    margin-bottom: 20px;
+}
+
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
