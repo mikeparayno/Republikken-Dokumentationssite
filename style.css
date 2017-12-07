@@ -156,10 +156,22 @@ footer {
     height: 100%;
 }
 
+/*-------- STORYBOARDS --------*/
+
+#storyboards img {
+    width: 65vw;
+}
+
 /*-------- PAIN POINT --------*/
 
 #pain_point {}
 
-strong {
-    color: white;
-}
+/*--------- PAPIRPROTOTYPER --------*/
+
+#papirprototype img {
+    width: 10vw;
+
+
+    strong {
+        color: white;
+    }
