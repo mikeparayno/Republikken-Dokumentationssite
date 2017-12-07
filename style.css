@@ -166,6 +166,12 @@ footer {
 
 #pain_point {}
 
-strong {
-    color: white;
-}
+/*--------- PAPIRPROTOTYPER --------*/
+
+#papirprototype img {
+    width: 10vw;
+
+
+    strong {
+        color: white;
+    }
