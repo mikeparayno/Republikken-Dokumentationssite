@@ -74,7 +74,7 @@ h3 {
 }
 
 strong {
-    color: white;
+    color: #689ca0;
 }
 
 /*-------- MENU ---------*/
@@ -176,8 +176,3 @@ footer {
 
 #papirprototype img {
     width: 10vw;
-
-
-    strong {
-        color: white;
-    }
