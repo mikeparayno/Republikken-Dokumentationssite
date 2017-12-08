@@ -138,6 +138,12 @@ footer {
     width: 65vw;
 }
 
+/*-------- BUSINESS MODEL CANVAS --------*/
+
+#business_model_canvas img {
+    width: 65vw;
+}
+
 /*-------- BURNDOWN CHART ---------*/
 
 #burndown_chart img {
