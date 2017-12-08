@@ -14,6 +14,7 @@ a {
     font-size: 2em;
 }
 
+
 ol {
     color: white;
 }
@@ -62,6 +63,7 @@ h2 {
     color: white;
     border-bottom: solid 2px white;
     font-size: 3em;
+    text-transform: uppercase
 }
 
 h3 {
@@ -69,6 +71,10 @@ h3 {
     color: white;
     font-size: 2em;
     margin: 5px 0;
+}
+
+strong {
+    color: #689ca0;
 }
 
 /*-------- MENU ---------*/
@@ -126,6 +132,12 @@ footer {
 
 /*-------- TRELLO --------*/
 
+/*-------- EXPERIENCE MAP --------*/
+
+#experience_map img {
+    width: 65vw;
+}
+
 /*-------- BURNDOWN CHART ---------*/
 
 #burndown_chart img {
@@ -170,8 +182,3 @@ footer {
 
 #papirprototype img {
     width: 10vw;
-
-
-    strong {
-        color: white;
-    }
