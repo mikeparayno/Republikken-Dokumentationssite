@@ -132,6 +132,12 @@ footer {
 
 /*-------- TRELLO --------*/
 
+/*-------- EXPERIENCE MAP --------*/
+
+#experience_map img {
+    width: 65vw;
+}
+
 /*-------- BURNDOWN CHART ---------*/
 
 #burndown_chart img {
